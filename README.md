@@ -1,6 +1,6 @@
 # Gamma App 
 
-[live Site](https://a-gamma.netlify.app)
+[live Site](https://a-fruitopia-app.netlify.app)
 
 ![Gamma App](/preview.png)
 
