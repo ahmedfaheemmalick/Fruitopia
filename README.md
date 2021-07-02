@@ -2,7 +2,7 @@
 
 [live Site](https://a-gamma.netlify.app)
 
-![Easy Bank App](/preview.png)
+![Gamma App](/preview.png)
 
 This is the code repo of Gamma App. There I used:
 
